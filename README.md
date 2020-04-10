@@ -13,7 +13,7 @@
 
 > Download first release - V0.1 and gear up for a smooth experience!!!
 
-> https://github.com/Biswa5812/Screen_Capture/releases/download/0.1/ScreenCapture.exe  
+> https://github.com/Biswa5812/Screen_Capture/releases/download/V0.1/ScreenCapture.v1.exe 
 
 # Bugs And Fixes 🐞🔧
 
