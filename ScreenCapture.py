@@ -98,7 +98,7 @@ class Ui_MainWindow(object):
             self.out = cv2.VideoWriter(self.store_1 + "\\output%s.avi" %j, fourcc, 24.0, (self.SCREEN_SIZE))
         else:
             os.mkdir(self.store_1)
-            self.out = cv2.VideoWriter(self.store_1 + "\\output%s.avi" %i, fourcc, 24.0, (self.SCREEN_SIZE))
+            self.out = cv2.VideoWriter(self.store_1 + "\\output%s.avi" %j, fourcc, 24.0, (self.SCREEN_SIZE))
         
         self.x = threading.Thread(target=self.do_work, args=(1,))
         self.x.start()
